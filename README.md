@@ -74,4 +74,4 @@ _이텔릭_
 <u>밑줄</u>  
 
 ### 링크 (Links)
-[naver](https://www.naver.com\)
+[naver](https://www.naver.com/)
