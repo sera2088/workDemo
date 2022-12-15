@@ -86,3 +86,15 @@ _이텔릭_
 
 ![갱얼쥐3](images/pasted_image_0.png)
 [![갱얼쥐4](images/img.jpg)](https://www.naver.com)
+
+### 원시 HTML (Raw HTML>)
+<img src ='images/pasted_image_0.png' alt='dog'>
+
+
+###무료 템플릿 사이트  
+구글 검색창에 bootstrap template 검색
+https://startbootstrap.com/themes
+
+
+git hub에 실제로 올릴 파일이 아닌 경우
+.gitignore에 파일 이름.파일형식 작성 해두면됨
